@@ -22,13 +22,24 @@ Cookie stealer
 Αλλαγή στοιχείων προφίλ: αλλαγή κωδικού αλλά χωρίς να έχεις πρόσβαση με τον καινούργιο
 Πρόβλημα με σχόλιο και multiple queries με το mysql_query
 
-Decode ονόματα αρχείων και φακέλων
-
 Διαγραφή μαθήματος ΤΜΑ106
 http://localhost/openeclass-2.3/modules/admin/delcours.php?c=TMA106&delete=yes
+Λύση: δημιουργία και έλεγχος για token
+F:\xampp\htdocs\openeclass-2.3\modules\admin\delcours.php
+F:\xampp\htdocs\openeclass-2.3\modules\admin\listcours.php
 
 Διαγραφή τμήματος
 http://localhost/openeclass-2.3/modules/admin/addfaculte.php?a=2&c=1
+Λύση: δημιουργία και έλεγχος για token
+F:\xampp\htdocs\openeclass-2.3\modules\admin\addfaculte.php
 
 Διαγραφή χρήστη με userid 3
 http://localhost/openeclass-2.3/modules/admin/unreguser.php?u=3&c=&doit=yes
+Λύση: δημιουργία και έλεγχος για token
+F:\xampp\htdocs\openeclass-2.3\modules\admin\unreguser.php
+F:\xampp\htdocs\openeclass-2.3\modules\admin\listusers.php
+
+SQL injection
+http://localhost/openeclass-2.3/modules/work/work.php?id=1
+
+Decode ονόματα αρχείων και φακέλων

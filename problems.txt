@@ -40,6 +40,7 @@ F:\xampp\htdocs\openeclass-2.3\modules\admin\unreguser.php
 F:\xampp\htdocs\openeclass-2.3\modules\admin\listusers.php
 
 SQL injection
-http://localhost/openeclass-2.3/modules/work/work.php?id=1
+Εργασίες: http://localhost/openeclass-2.3/modules/work/work.php?id=1
+Περιοχές συζητήσεων - θέμα: http://localhost/openeclass-2.3/modules/phpbb/viewtopic.php?topic=1&forum=1
 
 Decode ονόματα αρχείων και φακέλων
